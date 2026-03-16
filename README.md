@@ -17,10 +17,10 @@
 
 | 파일 | 내용 | 원본 페이지 |
 |---|---|---|
-| [Preface~ChapterI](./PrefaceChapterI_Jeju43Report_ENG.md) | [Word](./PrefaceChapterI_Jeju43Report_ENG.docx) | 서문, 제1장 (4·3의 배경) | pp. 1–68 |
-| [ChapterII](./ChapterII_Jeju43Report_ENG.md) | [Word](./ChapterII_Jeju43Report_ENG.doxc) | 제2장 (전개 과정) | pp. 69–166 |
-| [ChapterIII](./ChapterIII_Jeju43Report_ENG.md) | [Word](./ChapterIII_Jeju43Report_ENG.doxc) | 제3장 (피해 실태) | pp. 167–442 |
-| [ChapterIV_V_Appendix](./ChapterIV_V_Appendices_Jeju43Report_ENG.md) | [Word](./ChapterIV_V_Appendices_Jeju43Report_ENG.doxc) | 제4장, 제5장 (결론), 부록 | pp. 443–615 |
+| [Preface~ChapterI](./PrefaceChapterI_Jeju43Report_ENG.md) [Word](./PrefaceChapterI_Jeju43Report_ENG.docx) | 서문, 제1장 (4·3의 배경) | pp. 1–68 |
+| [ChapterII](./ChapterII_Jeju43Report_ENG.md) [Word](./ChapterII_Jeju43Report_ENG.doxc) | 제2장 (전개 과정) | pp. 69–166 |
+| [ChapterIII](./ChapterIII_Jeju43Report_ENG.md) [Word](./ChapterIII_Jeju43Report_ENG.doxc) | 제3장 (피해 실태) | pp. 167–442 |
+| [ChapterIV_V_Appendix](./ChapterIV_V_Appendices_Jeju43Report_ENG.md) [Word](./ChapterIV_V_Appendices_Jeju43Report_ENG.doxc) | 제4장, 제5장 (결론), 부록 | pp. 443–615 |
 
 ### 번역 원칙
 
