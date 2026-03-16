@@ -17,16 +17,16 @@
 
 | 파일 | 내용 | 원본 페이지 |
 |---|---|---|
-| [PrefaceChapterI_Jeju43Report_ENG.md](./PrefaceChapterI_Jeju43Report_ENG.md) | 서문, 제1장 (4·3의 배경) | pp. 1–68 |
-| [ChapterII_Jeju43Report_ENG.md](./ChapterII_Jeju43Report_ENG.md) | 제2장 (전개 과정) | pp. 69–166 |
-| [ChapterIII_Jeju43Report_ENG.md](./ChapterIII_Jeju43Report_ENG.md) | 제3장 (피해 실태) | pp. 167–442 |
-| [ChapterIV_V_Appendices_Jeju43Report_ENG.md](./ChapterIV_V_Appendices_Jeju43Report_ENG.md) | 제4장, 제5장 (결론), 부록 | pp. 443–615 |
+| [Preface~ChapterI](./PrefaceChapterI_Jeju43Report_ENG.md) | [Word](./PrefaceChapterI_Jeju43Report_ENG.docx) | 서문, 제1장 (4·3의 배경) | pp. 1–68 |
+| [ChapterII](./ChapterII_Jeju43Report_ENG.md) | [Word](./ChapterII_Jeju43Report_ENG.doxc) | 제2장 (전개 과정) | pp. 69–166 |
+| [ChapterIII](./ChapterIII_Jeju43Report_ENG.md) | [Word](./ChapterIII_Jeju43Report_ENG.doxc) | 제3장 (피해 실태) | pp. 167–442 |
+| [ChapterIV_V_Appendix](./ChapterIV_V_Appendices_Jeju43Report_ENG.md) | [Word](./ChapterIV_V_Appendices_Jeju43Report_ENG.doxc) | 제4장, 제5장 (결론), 부록 | pp. 443–615 |
 
 ### 번역 원칙
 
 - **용어**: 별도 작성한 마스터 용어집([GLOSSARY.md](./GLOSSARY.md))을 기준으로 일관성 있게 번역
 - **지명 표기**: 맥쿤-라이샤워(McCune-Reischauer) 로마자 표기법 적용. 단, 1960년 이전 조직명에 포함된 '제주'는 역사적 표기 *Cheju* 사용, 지명 및 1960년 이후 명칭은 *Jeju* 사용
-- **페이지 표시**: 원본 인쇄 페이지 번호를 `**[p. N]**` 형태로 본문 내 표시하여 원문 대조 가능
+- **페이지 표시**: 원본(정식 한글 출간본) 인쇄 페이지 번호를 `**[p. N]**` 형태로 본문 내 표시하여 원문 대조 가능
 - **각주**: 원문의 각주를 모두 보존하고 전체 고유 번호 재부여
 
 ### 기여 방법
